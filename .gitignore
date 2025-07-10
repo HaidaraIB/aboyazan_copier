@@ -1,0 +1,5 @@
+.env
+data.sqlite3
+*.session
+__pycache__
+test.py
