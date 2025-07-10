@@ -1,5 +1,6 @@
 .env
 data.sqlite3
 *.session
+*.session-journal
 __pycache__
 test.py
